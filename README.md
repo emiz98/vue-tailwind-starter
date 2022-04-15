@@ -1,4 +1,4 @@
-# vue-recipe-app
+# vue-tailwind-starter
 
 ## Project setup
 ```
